@@ -20,3 +20,4 @@ Welcome to my **Advanced Excel** repository! This folder showcases my learning j
 16) SCENARIO-MANAGER
 17) SOLVER
 18) V-H-X LOOKUPS FOR DATA EXTRACTIONS
+19) ATTRACTIVE DASHBOARDS BASED ON CORPORATE DATASETS 
