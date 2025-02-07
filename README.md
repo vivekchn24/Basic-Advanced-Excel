@@ -1,6 +1,6 @@
-Welcome to my **Advanced Excel** repository! This folder showcases my learning journey and practical work in Advanced Excel, including various functions, tools, data analysis techniques, and useful add-ins.
+WELCOME TO MY ADVANCED EXCEL REPOSITORY! THIS FOLDER SHOWCASES MY LEARNING JOURNEY AND PRACTICAL WORK IN ADVANCED EXCEL, INCLUDING VARIOUS FUNCTIONS, TOOLS, DATA ANALYSIS TECHNIQUES, AND USEFUL ADD-INS.
 
-## 📂 BELOW THE CONTENTS/MY WORKING SHEETS:-
+-->> 📂 BELOW THE CONTENTS/MY WORKING SHEETS :-
 
 1) ADD-INS
 2) ADD-INS LIST
